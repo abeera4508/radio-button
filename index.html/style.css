@@ -1,0 +1,22 @@
+/* Body Styles */
+body {
+  background-color: plum; 
+}
+
+/* Header Styles */
+h1 {
+  color: darkblue; 
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  font-size: 24px; 
+  text-align: center; 
+  border-radius: 25px; 
+  margin: 25px; 
+  padding: 25px; 
+}
+
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+  text-align: center; 
+}
